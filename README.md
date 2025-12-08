@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Furniture project](https://github.com/ASHxKING/furniture-project-2.0.git)
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning *JAVA Backend*
 
 - 👨‍💻 All of my projects are available at [https://github.com/ASHxKING](https://github.com/ASHxKING)
 
