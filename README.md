@@ -10,7 +10,7 @@
 - 🛠️ Building real-world projects and strengthening core fundamentals
 - 🌱 Learning clean code, exception handling, and backend architecture
 - 📫 Reach me at: **ashish.ak26@gmail.com**
-- 🌐 Portfolio: **https://ashwinkumar.me**
+- 🌐 Portfolio: 
 
 ---
 
