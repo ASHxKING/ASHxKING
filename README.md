@@ -6,7 +6,6 @@
 ## 👨‍💻 About Me
 
 - 💻 Full-Stack Developer with experience in **JavaScript, Node.js, SQL, AWS**
-- 🚀 Currently focusing on **Java Backend Development**
 - 🛠️ Building real-world projects and strengthening core fundamentals
 - 🌱 Learning clean code, exception handling, and backend architecture
 - 📫 Reach me at: **ashish.ak26@gmail.com**
@@ -27,7 +26,6 @@
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900?logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed?logo=docker&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f?logo=mysql&logoColor=white)
