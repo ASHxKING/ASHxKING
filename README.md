@@ -88,7 +88,7 @@
 - Features: Create, edit, delete, pin notes with user authentication
 - Deployment target: AWS
 
-👉 *Coming soon*
+👉  [View Repository](https://github.com/ASHxKING/Google-Keep-Clone)
 
 ---
 
